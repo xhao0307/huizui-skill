@@ -1,0 +1,4 @@
+interface:
+  display_name: "回嘴"
+  short_description: "根据对话一次给出五种有力回击：短句、讽刺、抓矛盾，由使用者选择"
+  default_prompt: "用 $huizui 根据这段虚构对话，一次给出五种不同风格、简短有力的回击。"

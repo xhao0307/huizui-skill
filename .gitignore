@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.log
+__pycache__/
+*.pyc
+private/
+raw/
+screenshots/
+local-evals/
